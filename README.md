@@ -12,6 +12,7 @@ This repository contains my professional resume for IT Support, Help Desk, and I
 
 ## Projects
 ### Code Review & Issue Tracker (Flask, Python)
+GitHub: [code-review-dashboard](https://github.com/Bwalkzz31/code-review-dashboard)  
 - Built a web-based code review system allowing users to submit code, log issues, assign severity levels, and suggest fixes
 - Developed backend functionality using Flask and implemented dynamic rendering with Jinja2 templates
 - Designed an interactive dashboard-style UI for tracking and displaying submitted reviews
